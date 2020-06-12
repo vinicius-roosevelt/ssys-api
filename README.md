@@ -3,6 +3,14 @@ Este repositório apresenta um app que soluciona o problema proposto.
 O App que trabalha baseado na arquitetura REST.
 Em seu desenvolvimento foi usada a linguagem Python, junto ao framework Django
 
+# Aplicação disponivel no heroko
+[Link](https://ssysapp.herokuapp.com/employees/) para a aplicação no heroku<br/>
+**Deve-se levar em consideração que por conta da autenticação por Token, nao será retornado valor**<br/>
+Para que os valores sejam retornados, deve ser usado um aplicativo de requisicoes como o Postman ou Insomnia<br/>
+
+Para testar o sistema disponibilizado na plataforma heroku, uma requisicao pode ser feita pelo seguite comando:
+> curl -H "Content-type: application/json" -H "Authorization: Token 8011ce28b0f23867e3e2bc909b7758f35bd1e4cb" https://ssysapp.herokuapp.com/employees/
+
 ### Requisitos atendidos:
 - CRUD dos funcionários (Baseado nos métodos HTTP)
 - API com os relatórios de idade e salário dos funcionários
