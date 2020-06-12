@@ -22,7 +22,7 @@ Bibliotecas Para desenvolvimento com django (disponíveis no arquivo "biblioteca
 6. A partir desse momento o projeto está funcionando. Basta enviar as requisições ao servidor.
 
 #### Exemplos de requisições
-As requisições feitas devem ser realizadas com um Token, que serve pra autenticar e garantir mais seguranca<br/>
+As requisições feitas devem ser realizadas com um Token, que serve pra autenticar e garantir segurança maior à aplicação<br/>
 
 Token:  c08d773479e40d24a20066947425311a14303755<br/>
 
