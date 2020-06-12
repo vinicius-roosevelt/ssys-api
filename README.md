@@ -31,7 +31,12 @@ Token:  c08d773479e40d24a20066947425311a14303755
 Ex:
 > curl -H "Content-type: application/json" -H "Authorization: Token c08d773479e40d24a20066947425311a14303755" localhost:8000/employees/
 
-A requisição acima irá listar todos os funcionários cadastrados
+A requisição acima irá listar todos os funcionários cadastrados como mostrado na imagem abaixo
+
+![request-response](https://user-images.githubusercontent.com/64163998/84537555-02440f80-acbe-11ea-84c3-98cfb51f6687.png)
+
+
+
 
 
 
