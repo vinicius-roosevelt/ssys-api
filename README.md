@@ -1,19 +1,15 @@
 # App do Desafio
-Este repositório apresenta a solução do problema proposto.
+Este repositório apresenta um app que soluciona o problema proposto.
 O App que trabalha baseado na arquitetura REST.
-Em seu desenvolvimento foi usada a linguagem Python, junto a framework Django
-
-
+Em seu desenvolvimento foi usada a linguagem Python, junto ao framework Django
 
 ### Requisitos atendidos:
 - CRUD dos funcionários (Baseado nos métodos HTTP)
 - API com os relatórios de idade e salário dos funcionários
 
-
 ### Requisitos de funcionamento em uma Máquina Local:
-Python instalado (v. 3.5; 3.6; 3.7 ou 3.8)
+Python instalado (v. 3.5; 3.6; 3.7 ou 3.8)<br/>
 (Opcional) - Aplicativo para trabalhar no padrão REST - {Insomnia, Advances REST Client}
-
 
 ### Procedimento de uso da aplicação
 1. Fazer download do código fonte da aplicação disponibilizadan neste repositório
@@ -25,8 +21,9 @@ Python instalado (v. 3.5; 3.6; 3.7 ou 3.8)
 6. A partir desse momento o projeto está funcionando. Basta enviar as requisições ao servidor.
 
 #### Exemplos de requisições
-As requisições feitas devem ser realizadas com um Token, que serve pra autenticar e garantir mais seguranca
-Token:  c08d773479e40d24a20066947425311a14303755
+As requisições feitas devem ser realizadas com um Token, que serve pra autenticar e garantir mais seguranca<br/>
+
+Token:  c08d773479e40d24a20066947425311a14303755<br/>
 
 Ex:
 > curl -H "Content-type: application/json" -H "Authorization: Token c08d773479e40d24a20066947425311a14303755" localhost:8000/employees/
