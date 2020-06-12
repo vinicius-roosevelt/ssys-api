@@ -33,7 +33,7 @@ Ex:
 
 A requisição acima irá listar todos os funcionários cadastrados como mostrado na imagem abaixo
 
-![request-response](https://user-images.githubusercontent.com/64163998/84537555-02440f80-acbe-11ea-84c3-98cfb51f6687.png)
+![request-response](https://user-images.githubusercontent.com/64163998/84538023-de34fe00-acbe-11ea-9d41-ad3e2239886c.png)
 
 
 
