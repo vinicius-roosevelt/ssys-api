@@ -9,6 +9,7 @@ Em seu desenvolvimento foi usada a linguagem Python, junto ao framework Django
 
 ### Requisitos de funcionamento em uma Máquina Local:
 Python instalado (v. 3.5; 3.6; 3.7 ou 3.8)<br/>
+Bibliotecas Para desenvolvimento com django (disponíveis no arquivo "bibliotecas.txt")<br/>
 (Opcional) - Aplicativo para trabalhar no padrão REST - {Insomnia, Advances REST Client}
 
 ### Procedimento de uso da aplicação
